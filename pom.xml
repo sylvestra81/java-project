@@ -38,6 +38,8 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>java-project</finalName>
     </build>
+
 
 </project>
